@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.chocolate {
+  font-family: 'Poppins';
+  text-align: center;
+  text-decoration: none;
+}
+
